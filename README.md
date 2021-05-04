@@ -2,8 +2,6 @@
 
 Currently qdx only includes "package" command. More will be added soon. Run "qdx package --help" to see options.
 
-[Download](https://github.com/qislam/qdx-dist/releases) 
-
 - Download latest release by using one the following links
   - [Linux](https://github.com/qislam/qdx-dist/releases/latest/download/qdx-linux) 
   - [Windows](https://github.com/qislam/qdx-dist/releases/latest/download/qdx-win.exe) 
@@ -25,4 +23,6 @@ alias qdx='~/Downloads/qdx-macos'
 ```
 
 - You can also save the file in your repository. Remember to add it to .gitignore. It is ok to rename the file as needed.
+
+Browse for all previous releases [here](https://github.com/qislam/qdx-dist/releases).
 
