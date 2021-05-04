@@ -4,6 +4,10 @@ Currently qdx only includes "package" command. More will be added soon. Run "qdx
 
 [Download](https://github.com/qislam/qdx-dist/releases) 
 
+- Download latest release by using one the following links
+  - [Linux](https://github.com/qislam/qdx-dist/releases/latest/download/qdx-linux) 
+  - [Windows](https://github.com/qislam/qdx-dist/releases/latest/download/qdx-win.exe) 
+  - [Mac](https://github.com/qislam/qdx-dist/releases/latest/download/qdx-macos) 
 - Once downloaded, you can start using it on the command line without need for installing/configuring anything else.
 
 ```bash
